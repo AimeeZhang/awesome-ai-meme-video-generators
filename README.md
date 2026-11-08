@@ -16,6 +16,7 @@ Curated tools that turn your photos into the viral **"tip toeing in my Jordans"*
 - [CapCut](https://www.capcut.com) — image-to-video generation plus the editing workflow for the sneaker-reveal style.
 - [Viggle](https://viggle.ai) — character dance / "brainrot" style video generation.
 - [Pollo AI](https://pollo.ai) — AI dance generator from photos.
+- [ReelAI](https://tryreelai.com/presets/rumpelstiltskin-ai-video-trend) — Rumpelstiltskin-inspired solo dance preset animating a single standing photo; paid plans.
 
 ## Posting tips
 
